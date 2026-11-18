@@ -40,6 +40,5 @@ Future work
 - Compare original images, segmented leaves and lesion-focused crops to investigate background reliance.
 - Explore combining plant images with disease descriptions.
 Acknowledgements
-Team members were Aiyana Kim, Qin Xuan Ho, Kemiel Dewnath, Htut Min, Elizabeth Nguyen and Han-na Yoo. The work described under “My contribution” covers my EfficientNet implementation and future work analysis.
 
 The datasets used were Plant Diseases Detection from Kaggle and PlantWild from Hugging Face.
